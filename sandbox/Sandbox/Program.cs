@@ -4,7 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("bonjour");
+        Console.WriteLine("Bonbon");
+        Console.WriteLine("Bonbon");
+        Console.WriteLine("Bonbon");
     }
 
 
